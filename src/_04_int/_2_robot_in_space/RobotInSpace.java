@@ -12,7 +12,7 @@ import java.awt.event.KeyEvent;
 import javax.swing.JApplet;
 
 import org.jointheleague.graphical.robot.Robot;
-
+//mouse
 public class RobotInSpace implements KeyEventDispatcher {
 
 	Robot rob = new Robot("mini");
